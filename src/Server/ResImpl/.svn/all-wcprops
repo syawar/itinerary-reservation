@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl
+END
+Flight.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/Flight.java
+END
+ResourceManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/ResourceManagerImpl.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/Customer.java
+END
+RMItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/RMItem.java
+END
+ReservedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/ReservedItem.java
+END
+ReservableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/ReservableItem.java
+END
+RMHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/RMHashtable.java
+END
+Trace.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/Trace.java
+END
+Car.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/Car.java
+END
+Hotel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/Hotel.java
+END
+RMInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/3/COMP-512%20Travel%20Reservation%20System/src/Server/ResImpl/RMInteger.java
+END
